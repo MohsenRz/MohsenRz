@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MohsenRz
 - 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning GP in ML 
+- 🌱 I’m currently working on a GP model for urban flooding prediction
 
 
 <!---
